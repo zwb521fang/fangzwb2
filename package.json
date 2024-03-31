@@ -1,5 +1,5 @@
 {
-  "name": "zhlist",
+  "name": "fangzwb2",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwb521fang/zhlist.git"
+    "url": "git+https://github.com/zwb521fang/fangzwb2.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -19,11 +19,10 @@
   "author": "zwb21fang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zwb521fang/zhlist/issues"
+    "url": "https://github.com/zwb521fang/fangzwb2/issues"
   },
-  "homepage": "https://github.com/zwb521fang/zhlist#readme",
+  "homepage": "https://github.com/zwb521fang/fangzwb2#readme",
   "dependencies": {
-    "fangzwb2": "^1.0.0",
     "fangzwb1": "^1.0.0",
     "fangzwb": "^1.0.0",
     "mmzwbmm3": "^1.0.0",
